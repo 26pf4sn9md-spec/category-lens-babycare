@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,11854,a=>{a.q("/category-lens-babycare/_next/static/media/brand-mark.30_udhj-s8ci_.png")},72963,a=>{a.q("/category-lens-babycare/_next/static/media/prismatic-ribbon.3c94bu2w0si7x.png")}]);
