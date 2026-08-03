@@ -2,5 +2,5 @@
 2:I[13716,["/category-lens-babycare/_next/static/chunks/158myu8e_yme3.js","/category-lens-babycare/_next/static/chunks/053adyd_0y54e.js","/category-lens-babycare/_next/static/chunks/1ca8d4c0v_bp3.js"],"default"]
 3:I[97367,["/category-lens-babycare/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/category-lens-babycare/_next/static/chunks/053adyd_0y54e.js","async":true}],["$","script","script-1",{"src":"/category-lens-babycare/_next/static/chunks/1ca8d4c0v_bp3.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YIWyicbvA2YYALB9Zm8Is"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/category-lens-babycare/_next/static/chunks/053adyd_0y54e.js","async":true}],["$","script","script-1",{"src":"/category-lens-babycare/_next/static/chunks/1ca8d4c0v_bp3.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QqrN-0pUqWKIrO6bPEZEA"}
 5:null
