@@ -1,2 +1,2 @@
-:HL["/category-lens-babycare/_next/static/chunks/0g701f4a8mq38.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"stdDP-2kysQnhzLY97Hk0"}
+:HL["/category-lens-babycare/_next/static/chunks/38tmai6o7_97t.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"zKWUFLXh9dWMH5bpYwXA4"}
